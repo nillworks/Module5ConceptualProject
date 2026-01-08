@@ -255,10 +255,7 @@ nav ul li a {
   padding: 32px;
   border-radius: 12px;
 }
-.Opinion_content table {
-  border: none;
-  border-collapse: collapse;
-}
+
 .Opinion_content table {
   width: 100%;
   border-collapse: collapse;
@@ -289,7 +286,7 @@ select option {
   text-align: center;
   background-color: #5490f5;
   color: plum;
-  padding: 12px 20px;
+  /* padding: 12px 20px; */
 }
 
 /****** <!-- Recent News Section  --> ******/
